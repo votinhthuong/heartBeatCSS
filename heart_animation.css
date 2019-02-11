@@ -1,0 +1,5 @@
+
+.heart {
+  animation: heartbeat 1s infinite; // our heart has infinite heartbeat :)
+  ...
+}
